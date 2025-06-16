@@ -4,5 +4,3 @@ numpy
 pandas
 matplotlib
 scikit-learn==1.4.2
-freeglut3-dev
-libgtk2.0-dev
