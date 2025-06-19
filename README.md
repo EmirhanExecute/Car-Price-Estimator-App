@@ -3,7 +3,7 @@ Car Purchase Predictor | ML-powered Streamlit Web App
 
 # Running the app locally
 
-You can use the webapp directly under carprice.streamlit.app or run it locally via:
+Run it locally via:
 ```
 git clone https://github.com/EmirhanExecute/Car-Price-Estimator-App.git
 cd prettymapp
